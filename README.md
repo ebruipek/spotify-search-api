@@ -1,7 +1,7 @@
 # spotify-search app
 ### Build and run docker container
 
-Clone repo `git clone https://github.com/maciejd/restful-api-python-flask.git`
+Clone repo `git clone https://github.com/ebruipek/spotify-search-api.git`
 
 Chande directory `cd spotify-search`
 
